@@ -1,4 +1,4 @@
-public enum Course {
+  public enum Course {
   Java,
   C,
   QA
